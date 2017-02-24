@@ -2,7 +2,7 @@
 layout: post
 title: 苏轼《定风波》
 categories:
-- 古诗
+- Ancient Poetry
 tags:
 - 文学
 ---
