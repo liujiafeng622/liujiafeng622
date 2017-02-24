@@ -10,4 +10,4 @@ comments: yes
 个人邮箱:liujiafeng622@gmail.com      
 github : [https://github.com/liujiafeng622](https://github.com/liujiafeng622)
 
-<img src="https://raw.githubusercontent.com/liujiafeng622/res/master/images/ljf.png" style="width: 80%;height: 80%" />
+<img src="/media/images/ljf.png" style="width: 80%;height: 80%" />
